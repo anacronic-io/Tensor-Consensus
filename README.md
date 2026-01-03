@@ -271,10 +271,8 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## 🔗 Links
 
-- [Paper (arXiv)](https://arxiv.org/abs/XXXX.XXXXX)
 - [Documentation](https://tensor-consensus.readthedocs.io)
 - [Blog Post](https://anachroni.co/blog/tensor-consensus)
-- [Video Tutorial](https://youtube.com/...)
 
 ---
 
