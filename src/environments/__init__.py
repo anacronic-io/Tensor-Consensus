@@ -7,5 +7,4 @@ from .football_integration import FootballEnvironment
 __all__ = [
     "SMACEnvironment",
     "MPEEnvironment",
-    "FootballEnvironment",
 ]
