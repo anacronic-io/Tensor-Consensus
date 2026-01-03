@@ -98,7 +98,6 @@ tensor-consensus/
 │   ├── environments/             # Benchmark integrations
 │   │   ├── smac_integration.py   # StarCraft Multi-Agent Challenge
 │   │   ├── mpe_integration.py    # Multi-Particle Environments
-│   │   └── football_integration.py # Google Research Football
 │   ├── models/                   # Base models
 │   │   ├── mamba_ssm.py          # Mamba state space model
 │   │   └── transformer.py        # Transformer baselines
@@ -235,9 +234,8 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{duran2024tensorconsensus,
   title={Tensor-Consensus System for Scalable Multi-Agent Systems: A TPU-Based Framework for Differentiable Coordination},
-  author={Durán Cabobianco, Marco and Tensor-Consensus Research Team},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024},
+  author={Durán Cabobianco, Anachroni R&D Team},
+  year={2026},
   url={https://github.com/anacronic-io/tensor-consensus}
 }
 ```
