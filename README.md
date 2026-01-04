@@ -257,7 +257,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 ## 🙏 Acknowledgments
 
 - Google Cloud team for TPU resources via the TRC program
-- Developers of JAX, Mamba, SMAC, MPE, and Google Research Football
+- Developers of JAX, Mamba, SMAC and MPE
 - Barcelona Supercomputing Center for valuable feedback
 - Anachroni S.Coop for supporting this research
 
