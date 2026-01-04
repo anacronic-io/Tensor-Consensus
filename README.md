@@ -201,18 +201,6 @@ env = MPEEnvironment(scenario="simple_spread", n_agents=5, batch_size=32)
 states, info = env.reset()
 ```
 
-### Google Research Football
-
-```python
-from src.environments.football_integration import FootballEnvironment
-
-env = FootballEnvironment(
-    scenario="academy_3_vs_1_with_keeper",
-    num_players=3,
-    batch_size=16
-)
-```
-
 ## 📊 Hardware Requirements
 
 ### Minimum (for testing)
